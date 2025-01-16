@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Shell Shockers",
+        "url": "https://shellshock.io",
+        "image": "shellshockers.jpg"
+    },
+    {
+        "name": "1v1.LOL",
+        "url": "https://1v1.lol",
+        "image": "1v1lol.jpg"
+    },
+    {
+        "name": "Vex 7",
+        "url": "https://vex7.net",
+        "image": "vex7.jpg"
+    }
+    // Add more games here
+]
